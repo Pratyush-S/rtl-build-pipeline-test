@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Cocotb / Simulation build outputs
+sim_build/
+results.xml
+*.vcd
+*.ghw
+*.cf
+*.eda
+
+# OS specific files
+.DS_Store
+Thumbs.db
